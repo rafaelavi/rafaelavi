@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Rafaela Vieira
  
-- 🌱 Estudando Java
+- 🌱 Estudando Java e JavaScript
 
  <div>
   <a href="https://github.com/rafalavi">
